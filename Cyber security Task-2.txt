@@ -1,0 +1,31 @@
+Cyber security Task-2
+
+
+Phishing Email Samples
+
+
+Hi John,
+
+An anonymous colleague has submitted feedback concerning your recent workplace interactions. To protect privacy, the content of this feedback cannot be shared via standard email.
+
+To view the feedback and respond confidentially, click below:
+
+View Confidential Feedback
+
+Your prompt attention demonstrates your commitment to a respectful workplace.
+
+Sincerely,
+Automated HR Solutions
+Contoso Corp
+
+
+Sender email address : human[.]resources@alerting-services[.]com
+
+Suspicious links : View Confidential Feedback
+
+Suspicious attachment: suspicious document attached 
+
+Urgent Tone : Anonymous Peer Feedback Received
+
+
+In the above sample email there are no spelling or grammar mistakes however there is lack of details, suspicious email address and the sender is trying to trick the recipient into clicking the link provided.
